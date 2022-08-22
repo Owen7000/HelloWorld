@@ -22,3 +22,4 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 - [Ruby](HelloWorld.rb)
 - [Scratch](HelloWorld.sb3)
 - [Bash](HelloWorld.sh)
+- [Go](HelloWorld.go)
