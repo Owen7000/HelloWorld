@@ -8,5 +8,5 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ##The Hello World Team:
 
--@Owen7000
--@Sonosus
+- @Owen7000
+- @Sonosus
