@@ -5,8 +5,8 @@ This is a crowdsourced collection of Hello World programs from many different pr
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## List of current Languages
-__Note__
-This is not in alphabetical order
+> __Note__
+> This is not in alphabetical order
 
 - [Assembly Language](HelloWorld.asm)
 - [BASIC](HelloWorld.bas)
