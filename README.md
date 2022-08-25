@@ -10,9 +10,10 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 - [Assembly Language](HelloWorld.asm)
 - [BASIC](HelloWorld.bas)
-- [Windows Batch File](HelloWorld.bat)
+- [Bash](HelloWorld.sh)
 - [BrainFuck](HelloWorld.bf)
 - [G-Code](HelloWorld.gcode)
+- [Go](HelloWorld.go)
 - [HTML](HelloWorld.html)
 - [Javascript](HelloWorld.js)
 - [Kotlin](HelloWorld.kt)
@@ -21,5 +22,4 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 - [Python](HelloWorld.py)
 - [Ruby](HelloWorld.rb)
 - [Scratch](HelloWorld.sb3)
-- [Bash](HelloWorld.sh)
-- [Go](HelloWorld.go)
+- [Windows Batch File](HelloWorld.bat)
