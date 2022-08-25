@@ -9,3 +9,4 @@
 - [ ] My program is named HelloWorld.extension.
 - [ ] My program has the appropriate extension for the language.
 - [ ] My program prints the string (without quotes) "Hello World!" to the terminal or equivalent.
+- [ ] I have added my language (With a link) to the file in README.md
