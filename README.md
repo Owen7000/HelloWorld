@@ -1,5 +1,7 @@
 # HelloWorld
 
+[![Join the chat at https://gitter.im/Owen7000/Hello-World](https://badges.gitter.im/Owen7000/Hello-World.svg)](https://gitter.im/Owen7000/Hello-World?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a crowdsourced collection of Hello World programs from many different programming languages as possible.
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
